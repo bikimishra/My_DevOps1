@@ -1,0 +1,23 @@
+commit 348eeb293576902020f58cf8008ad42f32bb1dba
+Author: pritam mishra <pritam_it@outlook.com>
+Date:   Sat May 7 19:23:16 2022 +0000
+
+    branch1 - commit #1
+
+commit 7d0850e241781ae53e1615be323b68f11b379b42
+Author: pritam mishra <pritam_it@outlook.com>
+Date:   Sat May 7 18:32:18 2022 +0000
+
+    master branch - commit #2
+
+commit c0af11fbbf69cc0bc5d906e10bc37da1a3af2db1
+Author: pritam mishra <pritam_it@outlook.com>
+Date:   Tue May 3 19:17:46 2022 +0000
+
+    this is modified
+
+commit f4666275d6ca3596a59706bd77bc2a718e4d3952
+Author: pritam mishra <pritam_it@outlook.com>
+Date:   Tue May 3 19:11:46 2022 +0000
+
+    THis is my git file to move in remote repo
